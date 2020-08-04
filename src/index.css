@@ -11,6 +11,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
-.container {
-  margin: auto;
+.rander_list {
+  padding-right: 10px;
+}
+.input_box{
+  width :49%;
+  margin :10xpx 20px;
+  padding :10px 5px;
 }
